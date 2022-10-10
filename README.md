@@ -2,7 +2,7 @@
 
 Laravel w/ Clean Arch
 
-    public function controllerMethod(LaravelRequest): Response
+    public function controllerMethod(Request $request): Response
     {
     
         $adapter = new Adapter($request);
