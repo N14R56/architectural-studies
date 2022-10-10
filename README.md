@@ -1,6 +1,6 @@
 # architectural-studies
 
-Laravel w/ Clean Arch
+Laravel Controller w/ Clean Arch
 
     public function controllerMethod(Request $request): Response
     {
